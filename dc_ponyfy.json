@@ -1,0 +1,35 @@
+{
+	'avatars': {
+		{'Betred': 'http://image.noelshack.com/fichiers/2014/23/1402040116-betred-pony.png'},
+		{'Oline': 'http://image.noelshack.com/fichiers/2014/23/1402077946-oline-pony.png'},
+		{'Kinchaka': 'http://image.noelshack.com/fichiers/2014/24/1402565641-kinchaka-pony.png'},
+		{'Lorkah': 'http://image.noelshack.com/fichiers/2014/24/1402588632-unnamed-shadowbolt-2-s1e02.png'},
+		{'Dann': 'http://image.noelshack.com/fichiers/2014/24/1402591400-dann.png'},
+		{'Jenny': 'http://image.noelshack.com/fichiers/2014/24/1402557881-7pyfy.png'}
+	},
+	
+	'default_avatars' : {
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-4706.gif',
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-21327f2a1459edb80c2aadec8795058e.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-bxlgu.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-cvo1o.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-darkjester2.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402557880-images.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402557881-n6frz.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557881-rexzm.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557881-user-avatar-9222.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557882-8zrax.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557882-70-user-41.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557882-70-user-44.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557882-70-user-112.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557882-70-user-145.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402557883-70-user-245.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402557883-70-user-308.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402592300-pony-6.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402592301-pony-1.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402592301-pony-2.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402592301-pony-3.png',
+		'http://image.noelshack.com/fichiers/2014/24/1402592301-pony-4.jpg',
+		'http://image.noelshack.com/fichiers/2014/24/1402592301-pony-5.gif'
+	}
+}
